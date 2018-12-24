@@ -17,3 +17,11 @@ This is a full stack web application that scrapes [Harvard Business Review](http
 ## Heroku Link
 
 ## Preview
+
+Main:
+
+![alt text](http://i64.tinypic.com/14v4uut.png)
+
+Notes:
+
+![alt text](http://i64.tinypic.com/10xuf0k.png)
