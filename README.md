@@ -14,8 +14,6 @@ This is a full stack web application that scrapes [Harvard Business Review](http
 - Axios
 - Morgan logger middleware
 
-## Heroku Link
-
 ## Preview
 
 Main:
