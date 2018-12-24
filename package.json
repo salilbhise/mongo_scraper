@@ -1,10 +1,11 @@
 {
   "name": "mongo_scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Overview  This is a full stack web application that scrapes [New York Times - Technology](https://www.nytimes.com/section/technology) for news articles any time a user visits the site, and displays them for the user. Each scraped article is saved to a database, and users can also add comments and revisit them at a later time.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -21,9 +22,13 @@
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
     "handlebars": "^4.0.12",
+    "method-override": "^3.0.0",
     "mongoose": "^5.4.0",
     "morgan": "^1.9.1",
+    "request": "^2.88.0",
     "yarn": "^1.12.3"
-  }
+  },
+  "devDependencies": {}
 }
